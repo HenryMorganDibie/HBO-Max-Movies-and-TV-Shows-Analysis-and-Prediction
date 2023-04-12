@@ -9,7 +9,8 @@
 
 3; Visualize the data: Used libraries like Matplotlib and Seaborn to create visualizations of the data. This can help you identify patterns and trends in the data that may not be obvious from just looking at the numbers.
 
-4; Performed analysis: Used pandas functions and other Python libraries to perform various types of analysis on the data. For example, you could calculate summary statistics, find correlations between columns, or group the data by certain criteria.
+4; Performed analysis: Used pandas functions and other Python libraries to perform various types of analysis on the data. 
+
 * Started by examining the distribution of each variable in the dataset. 
 * Looking for any outliers or unusual observations in the data. 
 * Examined the relationships between variables. 
