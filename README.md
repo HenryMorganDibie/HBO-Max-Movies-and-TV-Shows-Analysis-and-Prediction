@@ -3,6 +3,7 @@
 * Importing the necessary libraries and loading the datasets.
 * combine the datasets using python code soo i can gain insights from both datasets
 * Performed some basic exploratory data analysis to gain insights into the dataset, 
+
 1; Explore the data: Used pandas functions like head(), info(), and describe() to get a sense of what the data looks like, what columns are present, and what the data types are.
 
 2; Clean the data: Looked for missing values, duplicates, and other inconsistencies in the data. Use pandas functions like isna(), duplicated(), and drop_duplicates() to identify and clean up the data. Impute missing data, i used the fillna() method in pandas, using the median for numerical columns and the mode for categorical columns:
