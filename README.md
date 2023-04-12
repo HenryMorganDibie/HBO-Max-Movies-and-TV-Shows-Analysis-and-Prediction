@@ -1,4 +1,4 @@
-# HBO-Max-Movies-and-TV-Shows-analysis
+# HBO-Max-Movies-and-TV-Shows-analysis and Prediction 
 ## Summary of the process:
 * Importing the necessary libraries and loading the datasets.
 * combine the datasets using python code soo i can gain insights from both datasets
