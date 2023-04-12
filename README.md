@@ -19,6 +19,6 @@
 Investigating the relationships between different variables, such as the correlation between runtime and IMDb score.
 * Identified the top-rated movies based on IMDb score or popularity.
 * Analyzing the most common genres or production countries in the dataset, Creating visualizations to better understand the data.
-* CreateD a regression analysis for the most popular movies
+* Created a regression analysis for the most popular movies
 * To perform regression analysis, I first split the dataset into training and testing sets. I used 80% of the data for training and 20% for testing.
-* I performed linear regression on the dataset, and calculate the mean squared error, mean absolute error, and r-squared values. 
+* I performed linear regression on the dataset, and calculated the mean squared error, mean absolute error, and r-squared values. 
